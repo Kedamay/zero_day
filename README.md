@@ -1,5 +1,5 @@
 # Vagrant or how to code in your local computer
-How to use vagrant or your local computer to code.
+ALX project on how to use vagrant or your local computer to code.
 ## Tasks
 ### Create and setup your Git and GitHub account
   - Creat a github repository called zero_day
